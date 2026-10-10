@@ -1,6 +1,0 @@
-Dataset: Pothole Dataset (IVCNZ 2020) - 1,243 images, 4,076 boxes, 1 class (pothole), YOLO format.
-Source : https://github.com/jaygala24/pothole-detection
-Split  : 70/15/15 random (seed 42) -> train 870 / val 186 / test 187
-Cite   : Chitale, Kekre, Shenai, Karani, Gala. "Pothole Detection and Dimension Estimation System
-         using Deep Learning (YOLO) and Image Processing", IVCNZ 2020, doi:10.1109/IVCNZ51579.2020.9290547
-Report me dataset ka source aur ye citation zaroor likhna.
